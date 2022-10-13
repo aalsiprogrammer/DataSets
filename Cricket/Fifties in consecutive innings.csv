@@ -1,0 +1,439 @@
+,Player,50s,Runs,Inns,,Team,Opposition,Ground,Match Date,Scorecard
+0,ED Weekes,7,141,2,,West Indies,v England,Kingston,27 Mar 1948,Test # 298
+1,,,128,1,,West Indies,v India,Delhi,10 Nov 1948,Test # 304
+2,,,194,1,,West Indies,v India,Brabourne,9 Dec 1948,Test # 305
+3,,,162,1,,West Indies,v India,Kolkata,31 Dec 1948,Test # 308
+4,,,101,3,,West Indies,v India,Kolkata,31 Dec 1948,Test # 308
+5,,,90,1,,West Indies,v India,Chennai,27 Jan 1949,Test # 310
+6,,,56,1,,West Indies,v India,Brabourne,4 Feb 1949,Test # 311
+7,A Flower,7,65,3,,Zimbabwe,v New Zealand,Harare,19 Sep 2000,Test # 1511
+8,,,183*,1,,Zimbabwe,v India,Delhi,18 Nov 2000,Test # 1515
+9,,,70,3,,Zimbabwe,v India,Delhi,18 Nov 2000,Test # 1515
+10,,,55,2,,Zimbabwe,v India,Nagpur,25 Nov 2000,Test # 1517
+11,,,232*,3,,Zimbabwe,v India,Nagpur,25 Nov 2000,Test # 1517
+12,,,79,2,,Zimbabwe,v New Zealand,Wellington,26 Dec 2000,Test # 1524
+13,,,73,2,,Zimbabwe,v Bangladesh,Bulawayo,19 Apr 2001,Test # 1543
+14,S Chanderpaul,7,69,4,,West Indies,v Pakistan,Karachi,27 Nov 2006,Test # 1818
+15,,,74,2,,West Indies,v England,Lord's,17 May 2007,Test # 1831
+16,,,50,2,,West Indies,v England,Manchester,7 Jun 2007,Test # 1835
+17,,,116*,4,,West Indies,v England,Manchester,7 Jun 2007,Test # 1835
+18,,,136*,1,,West Indies,v England,Chester-le-Street,15 Jun 2007,Test # 1836
+19,,,70,3,,West Indies,v England,Chester-le-Street,15 Jun 2007,Test # 1836
+20,,,104,1,,West Indies,v South Africa,Gqeberha,26 Dec 2007,Test # 1856
+21,KC Sangakkara,7,75,2,,Sri Lanka,v Bangladesh,Mirpur,27 Jan 2014,Test # 2116
+22,,,319,1,,Sri Lanka,v Bangladesh,Chattogram,4 Feb 2014,Test # 2117
+23,,,105,3,,Sri Lanka,v Bangladesh,Chattogram,4 Feb 2014,Test # 2117
+24,,,147,2,,Sri Lanka,v England,Lord's,12 Jun 2014,Test # 2124
+25,,,61,4,,Sri Lanka,v England,Lord's,12 Jun 2014,Test # 2124
+26,,,79,1,,Sri Lanka,v England,Leeds,20 Jun 2014,Test # 2126
+27,,,55,3,,Sri Lanka,v England,Leeds,20 Jun 2014,Test # 2126
+28,CJL Rogers,7,55,2,,Australia,v India,Brisbane,17 Dec 2014,Test # 2149
+29,,,55,4,,Australia,v India,Brisbane,17 Dec 2014,Test # 2149
+30,,,57,1,,Australia,v India,Melbourne,26 Dec 2014,Test # 2152
+31,,,69,3,,Australia,v India,Melbourne,26 Dec 2014,Test # 2152
+32,,,95,1,,Australia,v India,Sydney,6 Jan 2015,Test # 2156
+33,,,56,3,,Australia,v India,Sydney,6 Jan 2015,Test # 2156
+34,,,95,2,,Australia,v England,Cardiff,8 Jul 2015,Test # 2170
+35,KL Rahul,7,90,1,,India,v Australia,Bengaluru,4 Mar 2017,Test # 2251
+36,,,51,3,,India,v Australia,Bengaluru,4 Mar 2017,Test # 2251
+37,,,67,2,,India,v Australia,Ranchi,16 Mar 2017,Test # 2256
+38,,,60,2,,India,v Australia,Dharamsala,25 Mar 2017,Test # 2258
+39,,,51*,4,,India,v Australia,Dharamsala,25 Mar 2017,Test # 2258
+40,,,57,1,,India,v Sri Lanka,Colombo (SSC),3 Aug 2017,Test # 2267
+41,,,85,1,,India,v Sri Lanka,Pallekele,12 Aug 2017,Test # 2269
+42,J Ryder,6,78*,1,,Australia,v South Africa,Durban,5 Nov 1921,Test # 145
+43,,,58,3,,Australia,v South Africa,Durban,5 Nov 1921,Test # 145
+44,,,56,1,,Australia,v South Africa,Johannesburg,12 Nov 1921,Test # 146
+45,,,142,2,,Australia,v South Africa,Cape Town,26 Nov 1921,Test # 147
+46,,,201*,1,,Australia,v England,Adelaide,16 Jan 1925,Test # 160
+47,,,88,3,,Australia,v England,Adelaide,16 Jan 1925,Test # 160
+48,EH Hendren,6,77,1,,England,v West Indies,Port of Spain,1 Feb 1930,Test # 189
+49,,,205*,3,,England,v West Indies,Port of Spain,1 Feb 1930,Test # 189
+50,,,56,2,,England,v West Indies,Georgetown,21 Feb 1930,Test # 192
+51,,,123,4,,England,v West Indies,Georgetown,21 Feb 1930,Test # 192
+52,,,61,1,,England,v West Indies,Kingston,3 Apr 1930,Test # 193
+53,,,55,3,,England,v West Indies,Kingston,3 Apr 1930,Test # 193
+54,GA Headley,6,93,3,,West Indies,v England,Port of Spain,24 Jan 1935,Test # 239
+55,,,53,2,,West Indies,v England,Georgetown,14 Feb 1935,Test # 240
+56,,,270*,1,,West Indies,v England,Kingston,14 Mar 1935,Test # 241
+57,,,106,1,,West Indies,v England,Lord's,24 Jun 1939,Test # 272
+58,,,107,3,,West Indies,v England,Lord's,24 Jun 1939,Test # 272
+59,,,51,2,,West Indies,v England,Manchester,22 Jul 1939,Test # 273
+60,A Melville,6,67,2,,South Africa,v England,Johannesburg,18 Feb 1939,Test # 270
+61,,,78,1,,South Africa,v England,Durban,3 Mar 1939,Test # 271
+62,,,103,3,,South Africa,v England,Durban,3 Mar 1939,Test # 271
+63,,,189,1,,South Africa,v England,Nottingham,7 Jun 1947,Test # 285
+64,,,104*,4,,South Africa,v England,Nottingham,7 Jun 1947,Test # 285
+65,,,117,2,,South Africa,v England,Lord's,21 Jun 1947,Test # 286
+66,GS Sobers,6,52,1,,West Indies,v Pakistan,Bridgetown,17 Jan 1958,Test # 446
+67,,,52,1,,West Indies,v Pakistan,Port of Spain,5 Feb 1958,Test # 448
+68,,,80,3,,West Indies,v Pakistan,Port of Spain,5 Feb 1958,Test # 448
+69,,,365*,2,,West Indies,v Pakistan,Kingston,26 Feb 1958,Test # 450
+70,,,125,2,,West Indies,v Pakistan,Georgetown,13 Mar 1958,Test # 452
+71,,,109*,4,,West Indies,v Pakistan,Georgetown,13 Mar 1958,Test # 452
+72,ER Dexter,6,85,1,,England,v Pakistan,Nottingham,26 Jul 1962,Test # 533
+73,,,172,1,,England,v Pakistan,The Oval,16 Aug 1962,Test # 534
+74,,,70,2,,England,v Australia,Brisbane,30 Nov 1962,Test # 535
+75,,,99,4,,England,v Australia,Brisbane,30 Nov 1962,Test # 535
+76,,,93,2,,England,v Australia,Melbourne,29 Dec 1962,Test # 536
+77,,,52,4,,England,v Australia,Melbourne,29 Dec 1962,Test # 536
+78,KF Barrington,6,63,2,,England,v Australia,Adelaide,25 Jan 1963,Test # 538
+79,,,132*,4,,England,v Australia,Adelaide,25 Jan 1963,Test # 538
+80,,,101,1,,England,v Australia,Sydney,15 Feb 1963,Test # 539
+81,,,94,3,,England,v Australia,Sydney,15 Feb 1963,Test # 539
+82,,,126,1,,England,v New Zealand,Auckland,23 Feb 1963,Test # 540
+83,,,76,2,,England,v New Zealand,Wellington,1 Mar 1963,Test # 541
+84,KD Walters,6,76,2,,Australia,v West Indies,Melbourne,26 Dec 1968,Test # 643
+85,,,118,2,,Australia,v West Indies,Sydney,3 Jan 1969,Test # 644
+86,,,110,2,,Australia,v West Indies,Adelaide,24 Jan 1969,Test # 645
+87,,,50,4,,Australia,v West Indies,Adelaide,24 Jan 1969,Test # 645
+88,,,242,1,,Australia,v West Indies,Sydney,14 Feb 1969,Test # 646
+89,,,103,3,,Australia,v West Indies,Sydney,14 Feb 1969,Test # 646
+90,GS Chappell,6,68,1,,Australia,v West Indies,Melbourne,31 Jan 1976,Test # 770
+91,,,54*,3,,Australia,v West Indies,Melbourne,31 Jan 1976,Test # 770
+92,,,52,2,,Australia,v Pakistan,Adelaide,24 Dec 1976,Test # 789
+93,,,70,4,,Australia,v Pakistan,Adelaide,24 Dec 1976,Test # 789
+94,,,121,1,,Australia,v Pakistan,Melbourne,1 Jan 1977,Test # 790
+95,,,67,3,,Australia,v Pakistan,Melbourne,1 Jan 1977,Test # 790
+96,GR Viswanath,6,59,1,,India,v Australia,Melbourne,30 Dec 1977,Test # 812
+97,,,54,3,,India,v Australia,Melbourne,30 Dec 1977,Test # 812
+98,,,79,2,,India,v Australia,Sydney,7 Jan 1978,Test # 814
+99,,,89,2,,India,v Australia,Adelaide,28 Jan 1978,Test # 816
+100,,,73,4,,India,v Australia,Adelaide,28 Jan 1978,Test # 816
+101,,,145,2,,India,v Pakistan,Faisalabad,16 Oct 1978,Test # 831
+102,Zaheer Abbas,6,91,2,,Pakistan,v Australia,Karachi,22 Sep 1982,Test # 935
+103,,,126,1,,Pakistan,v Australia,Faisalabad,30 Sep 1982,Test # 936
+104,,,52,2,,Pakistan,v Australia,Lahore,14 Oct 1982,Test # 937
+105,,,215,1,,Pakistan,v India,Lahore,10 Dec 1982,Test # 941
+106,,,186,2,,Pakistan,v India,Karachi,23 Dec 1982,Test # 942
+107,,,168,2,,Pakistan,v India,Faisalabad,3 Jan 1983,Test # 945
+108,AR Border,6,80,2,,Australia,v England,Manchester,27 Jul 1989,Test # 1124
+109,,,65*,1,,Australia,v England,Nottingham,10 Aug 1989,Test # 1125
+110,,,76,1,,Australia,v England,The Oval,24 Aug 1989,Test # 1126
+111,,,51*,3,,Australia,v England,The Oval,24 Aug 1989,Test # 1126
+112,,,50,1,,Australia,v New Zealand,Perth,24 Nov 1989,Test # 1129
+113,,,56,1,,Australia,v Sri Lanka,Brisbane,8 Dec 1989,Test # 1131
+114,MA Taylor,6,108,3,,Australia,v Sri Lanka,Hobart,16 Dec 1989,Test # 1133
+115,,,52,1,,Australia,v Pakistan,Melbourne,12 Jan 1990,Test # 1134
+116,,,101,3,,Australia,v Pakistan,Melbourne,12 Jan 1990,Test # 1134
+117,,,77,2,,Australia,v Pakistan,Adelaide,19 Jan 1990,Test # 1135
+118,,,59,4,,Australia,v Pakistan,Adelaide,19 Jan 1990,Test # 1135
+119,,,101*,2,,Australia,v Pakistan,Sydney,3 Feb 1990,Test # 1137
+120,R Dravid,6,92,1,,India,v Sri Lanka,Nagpur,26 Nov 1997,Test # 1387
+121,,,93,1,,India,v Sri Lanka,Wankhede,3 Dec 1997,Test # 1390
+122,,,85,3,,India,v Sri Lanka,Wankhede,3 Dec 1997,Test # 1390
+123,,,52,1,,India,v Australia,Chennai,6 Mar 1998,Test # 1405
+124,,,56,3,,India,v Australia,Chennai,6 Mar 1998,Test # 1405
+125,,,86,2,,India,v Australia,Kolkata,18 Mar 1998,Test # 1409
+126,JH Kallis,6,177,2,,South Africa,v West Indies,Durban,26 Dec 2003,Test # 1679
+127,,,73,1,,South Africa,v West Indies,Cape Town,2 Jan 2004,Test # 1681
+128,,,130*,3,,South Africa,v West Indies,Cape Town,2 Jan 2004,Test # 1681
+129,,,130*,1,,South Africa,v West Indies,Centurion,16 Jan 2004,Test # 1682
+130,,,92,1,,South Africa,v New Zealand,Hamilton,10 Mar 2004,Test # 1686
+131,,,150*,3,,South Africa,v New Zealand,Hamilton,10 Mar 2004,Test # 1686
+132,Mohammad Yousuf,6,128,2,,Pakistan,v England,The Oval,17 Aug 2006,Test # 1814
+133,,,192,2,,Pakistan,v West Indies,Lahore,11 Nov 2006,Test # 1815
+134,,,56,1,,Pakistan,v West Indies,Multan,19 Nov 2006,Test # 1816
+135,,,191,3,,Pakistan,v West Indies,Multan,19 Nov 2006,Test # 1816
+136,,,102,1,,Pakistan,v West Indies,Karachi,27 Nov 2006,Test # 1818
+137,,,124,3,,Pakistan,v West Indies,Karachi,27 Nov 2006,Test # 1818
+138,MEK Hussey,6,182,2,,Australia,v Bangladesh,Chattogram,16 Apr 2006,Test # 1799
+139,,,86,1,,Australia,v England,Brisbane,23 Nov 2006,Test # 1817
+140,,,91,2,,Australia,v England,Adelaide,1 Dec 2006,Test # 1819
+141,,,61*,4,,Australia,v England,Adelaide,1 Dec 2006,Test # 1819
+142,,,74*,1,,Australia,v England,Perth,14 Dec 2006,Test # 1821
+143,,,103,3,,Australia,v England,Perth,14 Dec 2006,Test # 1821
+144,KC Sangakkara,6,200*,2,,Sri Lanka,v Bangladesh,Colombo (PSS),3 Jul 2007,Test # 1838
+145,,,222*,2,,Sri Lanka,v Bangladesh,Kandy,11 Jul 2007,Test # 1839
+146,,,57,2,,Sri Lanka,v Australia,Hobart,16 Nov 2007,Test # 1847
+147,,,192,4,,Sri Lanka,v Australia,Hobart,16 Nov 2007,Test # 1847
+148,,,92,1,,Sri Lanka,v England,Kandy,1 Dec 2007,Test # 1851
+149,,,152,3,,Sri Lanka,v England,Kandy,1 Dec 2007,Test # 1851
+150,PA Jaques,6,66,2,,Australia,v Bangladesh,Chattogram,16 Apr 2006,Test # 1799
+151,,,100,1,,Australia,v Sri Lanka,Brisbane,8 Nov 2007,Test # 1845
+152,,,150,1,,Australia,v Sri Lanka,Hobart,16 Nov 2007,Test # 1847
+153,,,68,3,,Australia,v Sri Lanka,Hobart,16 Nov 2007,Test # 1847
+154,,,66,1,,Australia,v India,Melbourne,26 Dec 2007,Test # 1855
+155,,,51,3,,Australia,v India,Melbourne,26 Dec 2007,Test # 1855
+156,S Chanderpaul,6,107*,2,,West Indies,v Australia,North Sound,30 May 2008,Test # 1877
+157,,,77*,4,,West Indies,v Australia,North Sound,30 May 2008,Test # 1877
+158,,,79*,2,,West Indies,v Australia,Bridgetown,12 Jun 2008,Test # 1879
+159,,,50,4,,West Indies,v Australia,Bridgetown,12 Jun 2008,Test # 1879
+160,,,76,2,,West Indies,v New Zealand,Dunedin,11 Dec 2008,Test # 1897
+161,,,126*,1,,West Indies,v New Zealand,Napier,19 Dec 2008,Test # 1900
+162,Misbah-ul-Haq,6,76*,4,,Pakistan,v South Africa,Dubai (DSC),12 Nov 2010,Test # 1976
+163,,,77,2,,Pakistan,v South Africa,Abu Dhabi,20 Nov 2010,Test # 1979
+164,,,58*,4,,Pakistan,v South Africa,Abu Dhabi,20 Nov 2010,Test # 1979
+165,,,62,2,,Pakistan,v New Zealand,Hamilton,7 Jan 2011,Test # 1990
+166,,,99,2,,Pakistan,v New Zealand,Wellington,15 Jan 2011,Test # 1991
+167,,,70*,4,,Pakistan,v New Zealand,Wellington,15 Jan 2011,Test # 1991
+168,AN Cook,6,82,2,,England,v Australia,Melbourne,26 Dec 2010,Test # 1986
+169,,,189,2,,England,v Australia,Sydney,3 Jan 2011,Test # 1989
+170,,,133,2,,England,v Sri Lanka,Cardiff,26 May 2011,Test # 1994
+171,,,96,1,,England,v Sri Lanka,Lord's,3 Jun 2011,Test # 1995
+172,,,106,3,,England,v Sri Lanka,Lord's,3 Jun 2011,Test # 1995
+173,,,55,2,,England,v Sri Lanka,Southampton,16 Jun 2011,Test # 1996
+174,DA Warner,6,115,3,,Australia,v South Africa,Centurion,12 Feb 2014,Test # 2119
+175,,,70,2,,Australia,v South Africa,Gqeberha,20 Feb 2014,Test # 2121
+176,,,66,4,,Australia,v South Africa,Gqeberha,20 Feb 2014,Test # 2121
+177,,,135,1,,Australia,v South Africa,Cape Town,1 Mar 2014,Test # 2122
+178,,,145,3,,Australia,v South Africa,Cape Town,1 Mar 2014,Test # 2122
+179,,,133,2,,Australia,v Pakistan,Dubai (DSC),22 Oct 2014,Test # 2140
+180,JE Root,6,56,3,,England,v India,Southampton,27 Jul 2014,Test # 2132
+181,,,77,2,,England,v India,Manchester,7 Aug 2014,Test # 2134
+182,,,149*,2,,England,v India,The Oval,15 Aug 2014,Test # 2137
+183,,,83,1,,England,v West Indies,North Sound,13 Apr 2015,Test # 2157
+184,,,59,3,,England,v West Indies,North Sound,13 Apr 2015,Test # 2157
+185,,,182*,2,,England,v West Indies,St George's,21 Apr 2015,Test # 2158
+186,SPD Smith,6,144,1,,Australia,v England,Birmingham,1 Aug 2019,Test # 2353
+187,,,142,3,,Australia,v England,Birmingham,1 Aug 2019,Test # 2353
+188,,,92,2,,Australia,v England,Lord's,14 Aug 2019,Test # 2355
+189,,,211,1,,Australia,v England,Manchester,4 Sep 2019,Test # 2360
+190,,,82,3,,Australia,v England,Manchester,4 Sep 2019,Test # 2360
+191,,,80,2,,Australia,v England,The Oval,12 Sep 2019,Test # 2362
+192,FDM Karunaratne,6,75,4,,Sri Lanka,v West Indies,North Sound,29 Mar 2021,Test # 2417
+193,,,244,2,,Sri Lanka,v Bangladesh,Pallekele,21 Apr 2021,Test # 2418
+194,,,118,1,,Sri Lanka,v Bangladesh,Pallekele,29 Apr 2021,Test # 2419
+195,,,66,3,,Sri Lanka,v Bangladesh,Pallekele,29 Apr 2021,Test # 2419
+196,,,147,1,,Sri Lanka,v West Indies,Galle,21 Nov 2021,Test # 2434
+197,,,83,3,,Sri Lanka,v West Indies,Galle,21 Nov 2021,Test # 2434
+198,EH Hendren,5,74,1,,England,v South Africa,Birmingham,14 Jun 1924,Test # 153
+199,,,50*,2,,England,v South Africa,Lord's,28 Jun 1924,Test # 154
+200,,,132,1,,England,v South Africa,Leeds,12 Jul 1924,Test # 155
+201,,,142,2,,England,v South Africa,The Oval,16 Aug 1924,Test # 157
+202,,,74*,2,,England,v Australia,Sydney,19 Dec 1924,Test # 158
+203,WR Hammond,5,63,4,,England,v South Africa,Johannesburg,24 Dec 1930,Test # 200
+204,,,57,2,,England,v South Africa,Cape Town,1 Jan 1931,Test # 202
+205,,,65,3,,England,v South Africa,Cape Town,1 Jan 1931,Test # 202
+206,,,136*,2,,England,v South Africa,Durban,16 Jan 1931,Test # 204
+207,,,75,1,,England,v South Africa,Johannesburg,13 Feb 1931,Test # 206
+208,H Sutcliffe,5,74,2,,England,v Australia,Manchester,25 Jul 1930,Test # 197
+209,,,161,1,,England,v Australia,The Oval,16 Aug 1930,Test # 198
+210,,,54,3,,England,v Australia,The Oval,16 Aug 1930,Test # 198
+211,,,117,1,,England,v New Zealand,The Oval,29 Jul 1931,Test # 210
+212,,,109*,1,,England,v New Zealand,Manchester,15 Aug 1931,Test # 211
+213,DG Bradman,5,132,1,,Australia,v India,Melbourne,1 Jan 1948,Test # 292
+214,,,127*,3,,Australia,v India,Melbourne,1 Jan 1948,Test # 292
+215,,,201,1,,Australia,v India,Adelaide,23 Jan 1948,Test # 294
+216,,,57*,1,,Australia,v India,Melbourne,6 Feb 1948,Test # 295
+217,,,138,2,,Australia,v England,Nottingham,10 Jun 1948,Test # 299
+218,RN Harvey,5,151*,4,,Australia,v South Africa,Durban,20 Jan 1950,Test # 320
+219,,,56*,1,,Australia,v South Africa,Johannesburg,10 Feb 1950,Test # 321
+220,,,100,3,,Australia,v South Africa,Johannesburg,10 Feb 1950,Test # 321
+221,,,116,1,,Australia,v South Africa,Gqeberha,3 Mar 1950,Test # 322
+222,,,74,1,,Australia,v England,Brisbane,1 Dec 1950,Test # 327
+223,RN Harvey,5,60,4,,Australia,v South Africa,Melbourne,24 Dec 1952,Test # 361
+224,,,190,2,,Australia,v South Africa,Sydney,9 Jan 1953,Test # 362
+225,,,84,1,,Australia,v South Africa,Adelaide,24 Jan 1953,Test # 364
+226,,,116,3,,Australia,v South Africa,Adelaide,24 Jan 1953,Test # 364
+227,,,205,1,,Australia,v South Africa,Melbourne,6 Feb 1953,Test # 365
+228,CL Walcott,5,124,1,,West Indies,v England,Port of Spain,17 Mar 1954,Test # 385
+229,,,51*,3,,West Indies,v England,Port of Spain,17 Mar 1954,Test # 385
+230,,,50,1,,West Indies,v England,Kingston,30 Mar 1954,Test # 386
+231,,,116,3,,West Indies,v England,Kingston,30 Mar 1954,Test # 386
+232,,,108,2,,West Indies,v Australia,Kingston,26 Mar 1955,Test # 403
+233,PBH May,5,89*,3,,England,v South Africa,The Oval,13 Aug 1955,Test # 412
+234,,,73,1,,England,v Australia,Nottingham,7 Jun 1956,Test # 425
+235,,,63,2,,England,v Australia,Lord's,21 Jun 1956,Test # 426
+236,,,53,4,,England,v Australia,Lord's,21 Jun 1956,Test # 426
+237,,,101,1,,England,v Australia,Leeds,12 Jul 1956,Test # 427
+238,GS Sobers,5,50,2,,West Indies,v India,Brabourne,13 Dec 1966,Test # 610
+239,,,53*,4,,West Indies,v India,Brabourne,13 Dec 1966,Test # 610
+240,,,70,1,,West Indies,v India,Kolkata,31 Dec 1966,Test # 612
+241,,,95,2,,West Indies,v India,Chennai,13 Jan 1967,Test # 614
+242,,,74*,4,,West Indies,v India,Chennai,13 Jan 1967,Test # 614
+243,JH Edrich,5,88,1,,England,v Australia,Birmingham,11 Jul 1968,Test # 639
+244,,,64,3,,England,v Australia,Birmingham,11 Jul 1968,Test # 639
+245,,,62,2,,England,v Australia,Leeds,25 Jul 1968,Test # 640
+246,,,65,4,,England,v Australia,Leeds,25 Jul 1968,Test # 640
+247,,,164,1,,England,v Australia,The Oval,22 Aug 1968,Test # 641
+248,G Boycott,5,76*,4,,England,v Australia,Melbourne,21 Jan 1971,Test # 677
+249,,,58,1,,England,v Australia,Adelaide,29 Jan 1971,Test # 678
+250,,,119*,3,,England,v Australia,Adelaide,29 Jan 1971,Test # 678
+251,,,121*,1,,England,v Pakistan,Lord's,17 Jun 1971,Test # 688
+252,,,112,1,,England,v Pakistan,Leeds,8 Jul 1971,Test # 689
+253,IVA Richards,5,101,4,,West Indies,v Australia,Adelaide,23 Jan 1976,Test # 768
+254,,,50,2,,West Indies,v Australia,Melbourne,31 Jan 1976,Test # 770
+255,,,98,4,,West Indies,v Australia,Melbourne,31 Jan 1976,Test # 770
+256,,,142,2,,West Indies,v India,Bridgetown,10 Mar 1976,Test # 773
+257,,,130,1,,West Indies,v India,Port of Spain,24 Mar 1976,Test # 774
+258,SM Gavaskar,5,97,3,,India,v Pakistan,Lahore,27 Oct 1978,Test # 832
+259,,,111,1,,India,v Pakistan,Karachi,14 Nov 1978,Test # 833
+260,,,137,3,,India,v Pakistan,Karachi,14 Nov 1978,Test # 833
+261,,,205,1,,India,v West Indies,Wankhede,1 Dec 1978,Test # 835
+262,,,73,3,,India,v West Indies,Wankhede,1 Dec 1978,Test # 835
+263,AR Border,5,105,4,,Australia,v Pakistan,Melbourne,10 Mar 1979,Test # 849
+264,,,85,2,,Australia,v Pakistan,Perth,24 Mar 1979,Test # 850
+265,,,66*,4,,Australia,v Pakistan,Perth,24 Mar 1979,Test # 850
+266,,,162,1,,Australia,v India,Chennai,11 Sep 1979,Test # 855
+267,,,50,3,,Australia,v India,Chennai,11 Sep 1979,Test # 855
+268,IVA Richards,5,140,2,,West Indies,v Australia,Brisbane,1 Dec 1979,Test # 862
+269,,,96,2,,West Indies,v Australia,Melbourne,29 Dec 1979,Test # 867
+270,,,76,1,,West Indies,v Australia,Adelaide,26 Jan 1980,Test # 870
+271,,,74,3,,West Indies,v Australia,Adelaide,26 Jan 1980,Test # 870
+272,,,64,2,,West Indies,v England,Nottingham,5 Jun 1980,Test # 880
+273,CH Lloyd,5,64,1,,West Indies,v England,Port of Spain,13 Feb 1981,Test # 896
+274,,,100,1,,West Indies,v England,Bridgetown,13 Mar 1981,Test # 900
+275,,,66,3,,West Indies,v England,Bridgetown,13 Mar 1981,Test # 900
+276,,,58,2,,West Indies,v England,St John's,27 Mar 1981,Test # 901
+277,,,95,2,,West Indies,v England,Kingston,10 Apr 1981,Test # 902
+278,A Ranatunga,5,77,2,,Sri Lanka,v Pakistan,Colombo (CCC),14 Mar 1986,Test # 1041
+279,,,53,1,,Sri Lanka,v Pakistan,Colombo (PSS),22 Mar 1986,Test # 1043
+280,,,135*,3,,Sri Lanka,v Pakistan,Colombo (PSS),22 Mar 1986,Test # 1043
+281,,,52,1,,Sri Lanka,v India,Kanpur,17 Dec 1986,Test # 1061
+282,,,59,1,,Sri Lanka,v India,Nagpur,27 Dec 1986,Test # 1063
+283,DB Vengsarkar,5,164*,2,,India,v Australia,Wankhede,15 Oct 1986,Test # 1054
+284,,,57,2,,India,v Sri Lanka,Kanpur,17 Dec 1986,Test # 1061
+285,,,153,2,,India,v Sri Lanka,Nagpur,27 Dec 1986,Test # 1063
+286,,,166,1,,India,v Sri Lanka,Cuttack,4 Jan 1987,Test # 1064
+287,,,96,2,,India,v Pakistan,Chennai,3 Feb 1987,Test # 1066
+288,SV Manjrekar,5,113*,4,,India,v Pakistan,Karachi,15 Nov 1989,Test # 1127
+289,,,76,1,,India,v Pakistan,Faisalabad,23 Nov 1989,Test # 1128
+290,,,83,3,,India,v Pakistan,Faisalabad,23 Nov 1989,Test # 1128
+291,,,218,1,,India,v Pakistan,Lahore,1 Dec 1989,Test # 1130
+292,,,72,1,,India,v Pakistan,Sialkot,9 Dec 1989,Test # 1132
+293,GA Gooch,5,58,3,,England,v Australia,Melbourne,26 Dec 1990,Test # 1159
+294,,,59,2,,England,v Australia,Sydney,4 Jan 1991,Test # 1160
+295,,,54,4,,England,v Australia,Sydney,4 Jan 1991,Test # 1160
+296,,,87,2,,England,v Australia,Adelaide,25 Jan 1991,Test # 1161
+297,,,117,4,,England,v Australia,Adelaide,25 Jan 1991,Test # 1161
+298,AJ Stewart,5,107,1,,England,v New Zealand,Wellington,6 Feb 1992,Test # 1187
+299,,,63,3,,England,v New Zealand,Wellington,6 Feb 1992,Test # 1187
+300,,,190,2,,England,v Pakistan,Birmingham,4 Jun 1992,Test # 1189
+301,,,74,1,,England,v Pakistan,Lord's,18 Jun 1992,Test # 1190
+302,,,69*,3,,England,v Pakistan,Lord's,18 Jun 1992,Test # 1190
+303,GRJ Matthews,5,64,3,,Australia,v Sri Lanka,Colombo (SSC),17 Aug 1992,Test # 1194
+304,,,55,1,,Australia,v Sri Lanka,Colombo (RPS),28 Aug 1992,Test # 1195
+305,,,51,3,,Australia,v Sri Lanka,Colombo (RPS),28 Aug 1992,Test # 1195
+306,,,57,1,,Australia,v Sri Lanka,Moratuwa,8 Sep 1992,Test # 1196
+307,,,96,3,,Australia,v Sri Lanka,Moratuwa,8 Sep 1992,Test # 1196
+308,NS Sidhu,5,106,1,,India,v England,Chennai,11 Feb 1993,Test # 1213
+309,,,79,2,,India,v England,Wankhede,19 Feb 1993,Test # 1214
+310,,,61,1,,India,v Zimbabwe,Delhi,13 Mar 1993,Test # 1218
+311,,,82,1,,India,v Sri Lanka,Colombo (SSC),27 Jul 1993,Test # 1228
+312,,,104,3,,India,v Sri Lanka,Colombo (SSC),27 Jul 1993,Test # 1228
+313,Saeed Anwar,5,50,1,,Pakistan,v Sri Lanka,Peshawar,8 Sep 1995,Test # 1304
+314,,,54,2,,Pakistan,v Sri Lanka,Faisalabad,15 Sep 1995,Test # 1305
+315,,,50,4,,Pakistan,v Sri Lanka,Faisalabad,15 Sep 1995,Test # 1305
+316,,,74,1,,Pakistan,v England,Lord's,25 Jul 1996,Test # 1330
+317,,,88,3,,Pakistan,v England,Lord's,25 Jul 1996,Test # 1330
+318,WJ Cronje,5,81,1,,South Africa,v England,Lord's,18 Jun 1998,Test # 1419
+319,,,69*,1,,South Africa,v England,Manchester,2 Jul 1998,Test # 1420
+320,,,126,1,,South Africa,v England,Nottingham,23 Jul 1998,Test # 1421
+321,,,67,3,,South Africa,v England,Nottingham,23 Jul 1998,Test # 1421
+322,,,57,2,,South Africa,v England,Leeds,6 Aug 1998,Test # 1422
+323,S Chanderpaul,5,67*,4,,West Indies,v India,Port of Spain,19 Apr 2002,Test # 1599
+324,,,101*,2,,West Indies,v India,Bridgetown,2 May 2002,Test # 1601
+325,,,136*,2,,West Indies,v India,St John's,10 May 2002,Test # 1602
+326,,,58,1,,West Indies,v India,Kingston,18 May 2002,Test # 1604
+327,,,59,3,,West Indies,v India,Kingston,18 May 2002,Test # 1604
+328,JH Kallis,5,61*,4,,South Africa,v Australia,Durban,15 Mar 2002,Test # 1595
+329,,,75*,1,,South Africa,v Bangladesh,East London,18 Oct 2002,Test # 1619
+330,,,139*,2,,South Africa,v Bangladesh,Potchefstroom,25 Oct 2002,Test # 1621
+331,,,75,2,,South Africa,v Sri Lanka,Johannesburg,8 Nov 2002,Test # 1624
+332,,,84,2,,South Africa,v Sri Lanka,Centurion,15 Nov 2002,Test # 1626
+333,RT Ponting,5,169,2,,Australia,v Zimbabwe,Sydney,17 Oct 2003,Test # 1663
+334,,,53*,4,,Australia,v Zimbabwe,Sydney,17 Oct 2003,Test # 1663
+335,,,54,1,,Australia,v India,Brisbane,4 Dec 2003,Test # 1671
+336,,,50,3,,Australia,v India,Brisbane,4 Dec 2003,Test # 1671
+337,,,242,1,,Australia,v India,Adelaide,12 Dec 2003,Test # 1673
+338,Inzamam-ul-Haq,5,53,1,,Pakistan,v England,Multan,12 Nov 2005,Test # 1770
+339,,,72,3,,Pakistan,v England,Multan,12 Nov 2005,Test # 1770
+340,,,109,1,,Pakistan,v England,Faisalabad,20 Nov 2005,Test # 1772
+341,,,100*,3,,Pakistan,v England,Faisalabad,20 Nov 2005,Test # 1772
+342,,,97,2,,Pakistan,v England,Lahore,29 Nov 2005,Test # 1774
+343,RT Ponting,5,118*,4,,Australia,v Bangladesh,Fatullah,9 Apr 2006,Test # 1797
+344,,,52,2,,Australia,v Bangladesh,Chattogram,16 Apr 2006,Test # 1799
+345,,,196,1,,Australia,v England,Brisbane,23 Nov 2006,Test # 1817
+346,,,60*,3,,Australia,v England,Brisbane,23 Nov 2006,Test # 1817
+347,,,142,2,,Australia,v England,Adelaide,1 Dec 2006,Test # 1819
+348,JH Kallis,5,51,4,,South Africa,v Pakistan,Cape Town,26 Jan 2007,Test # 1830
+349,,,155,1,,South Africa,v Pakistan,Karachi,1 Oct 2007,Test # 1843
+350,,,100*,3,,South Africa,v Pakistan,Karachi,1 Oct 2007,Test # 1843
+351,,,59,1,,South Africa,v Pakistan,Lahore,8 Oct 2007,Test # 1844
+352,,,107*,3,,South Africa,v Pakistan,Lahore,8 Oct 2007,Test # 1844
+353,HM Amla,5,95,3,,South Africa,v England,Cape Town,3 Jan 2010,Test # 1946
+354,,,75,2,,South Africa,v England,Johannesburg,14 Jan 2010,Test # 1948
+355,,,253*,1,,South Africa,v India,Nagpur,6 Feb 2010,Test # 1951
+356,,,114,1,,South Africa,v India,Kolkata,14 Feb 2010,Test # 1952
+357,,,123*,3,,South Africa,v India,Kolkata,14 Feb 2010,Test # 1952
+358,Tamim Iqbal,5,85,1,,Bangladesh,v England,Mirpur,20 Mar 2010,Test # 1956
+359,,,52,3,,Bangladesh,v England,Mirpur,20 Mar 2010,Test # 1956
+360,,,55,2,,Bangladesh,v England,Lord's,27 May 2010,Test # 1958
+361,,,103,3,,Bangladesh,v England,Lord's,27 May 2010,Test # 1958
+362,,,108,2,,Bangladesh,v England,Manchester,4 Jun 2010,Test # 1959
+363,MEK Hussey,5,195,2,,Australia,v England,Brisbane,25 Nov 2010,Test # 1981
+364,,,93,1,,Australia,v England,Adelaide,3 Dec 2010,Test # 1983
+365,,,52,3,,Australia,v England,Adelaide,3 Dec 2010,Test # 1983
+366,,,61,1,,Australia,v England,Perth,16 Dec 2010,Test # 1984
+367,,,116,3,,Australia,v England,Perth,16 Dec 2010,Test # 1984
+368,IR Bell,5,115,2,,England,v Australia,Sydney,3 Jan 2011,Test # 1989
+369,,,103*,2,,England,v Sri Lanka,Cardiff,26 May 2011,Test # 1994
+370,,,52,1,,England,v Sri Lanka,Lord's,3 Jun 2011,Test # 1995
+371,,,57*,3,,England,v Sri Lanka,Lord's,3 Jun 2011,Test # 1995
+372,,,119*,2,,England,v Sri Lanka,Southampton,16 Jun 2011,Test # 1996
+373,S Chanderpaul,5,94,2,,West Indies,v Australia,Port of Spain,15 Apr 2012,Test # 2041
+374,,,68,2,,West Indies,v Australia,Roseau,23 Apr 2012,Test # 2042
+375,,,69,4,,West Indies,v Australia,Roseau,23 Apr 2012,Test # 2042
+376,,,87*,1,,West Indies,v England,Lord's,17 May 2012,Test # 2043
+377,,,91,3,,West Indies,v England,Lord's,17 May 2012,Test # 2043
+378,Sarfaraz Ahmed,5,55,1,,Pakistan,v Sri Lanka,Galle,6 Aug 2014,Test # 2133
+379,,,52*,3,,Pakistan,v Sri Lanka,Galle,6 Aug 2014,Test # 2133
+380,,,103,2,,Pakistan,v Sri Lanka,Colombo (SSC),14 Aug 2014,Test # 2136
+381,,,55,4,,Pakistan,v Sri Lanka,Colombo (SSC),14 Aug 2014,Test # 2136
+382,,,109,1,,Pakistan,v Australia,Dubai (DSC),22 Oct 2014,Test # 2140
+383,DA Warner,5,64,3,,Australia,v England,Nottingham,6 Aug 2015,Test # 2175
+384,,,85,1,,Australia,v England,The Oval,20 Aug 2015,Test # 2178
+385,,,163,1,,Australia,v New Zealand,Brisbane,5 Nov 2015,Test # 2185
+386,,,116,3,,Australia,v New Zealand,Brisbane,5 Nov 2015,Test # 2185
+387,,,253,1,,Australia,v New Zealand,Perth,13 Nov 2015,Test # 2187
+388,SPD Smith,5,134*,1,,Australia,v West Indies,Melbourne,26 Dec 2015,Test # 2195
+389,,,70*,3,,Australia,v West Indies,Melbourne,26 Dec 2015,Test # 2195
+390,,,71,2,,Australia,v New Zealand,Wellington,12 Feb 2016,Test # 2201
+391,,,138,2,,Australia,v New Zealand,Christchurch,20 Feb 2016,Test # 2202
+392,,,53*,4,,Australia,v New Zealand,Christchurch,20 Feb 2016,Test # 2202
+393,Q de Kock,5,82,1,,South Africa,v New Zealand,Centurion,27 Aug 2016,Test # 2220
+394,,,50,3,,South Africa,v New Zealand,Centurion,27 Aug 2016,Test # 2220
+395,,,84,1,,South Africa,v Australia,Perth,3 Nov 2016,Test # 2230
+396,,,64,3,,South Africa,v Australia,Perth,3 Nov 2016,Test # 2230
+397,,,104,2,,South Africa,v Australia,Hobart,12 Nov 2016,Test # 2233
+398,RG Sharma,5,82,3,,India,v New Zealand,Kolkata,30 Sep 2016,Test # 2222
+399,,,51*,1,,India,v New Zealand,Indore,8 Oct 2016,Test # 2223
+400,,,102*,2,,India,v Sri Lanka,Nagpur,24 Nov 2017,Test # 2283
+401,,,65,1,,India,v Sri Lanka,Delhi,2 Dec 2017,Test # 2286
+402,,,50*,3,,India,v Sri Lanka,Delhi,2 Dec 2017,Test # 2286
+403,SPD Smith,5,239,2,,Australia,v England,Perth,14 Dec 2017,Test # 2288
+404,,,76,1,,Australia,v England,Melbourne,26 Dec 2017,Test # 2289
+405,,,102*,3,,Australia,v England,Melbourne,26 Dec 2017,Test # 2289
+406,,,83,2,,Australia,v England,Sydney,4 Jan 2018,Test # 2291
+407,,,56,1,,Australia,v South Africa,Durban,1 Mar 2018,Test # 2297
+408,M Labuschagne,5,185,2,,Australia,v Pakistan,Brisbane,21 Nov 2019,Test # 2368
+409,,,162,1,,Australia,v Pakistan,Adelaide,29 Nov 2019,Test # 2372
+410,,,143,1,,Australia,v New Zealand,Perth,12 Dec 2019,Test # 2374
+411,,,50,3,,Australia,v New Zealand,Perth,12 Dec 2019,Test # 2374
+412,,,63,1,,Australia,v New Zealand,Melbourne,26 Dec 2019,Test # 2376
+413,Babar Azam,5,102*,2,,Pakistan,v Sri Lanka,Rawalpindi,11 Dec 2019,Test # 2373
+414,,,60,1,,Pakistan,v Sri Lanka,Karachi,19 Dec 2019,Test # 2375
+415,,,100*,3,,Pakistan,v Sri Lanka,Karachi,19 Dec 2019,Test # 2375
+416,,,143,2,,Pakistan,v Bangladesh,Rawalpindi,7 Feb 2020,Test # 2384
+417,,,69,1,,Pakistan,v England,Manchester,5 Aug 2020,Test # 2391
+418,Mohammad Rizwan,5,72,1,,Pakistan,v England,Southampton,13 Aug 2020,Test # 2392
+419,,,53,2,,Pakistan,v England,Southampton,21 Aug 2020,Test # 2393
+420,,,71,2,,Pakistan,v New Zealand,Mount Maunganui,26 Dec 2020,Test # 2397
+421,,,60,4,,Pakistan,v New Zealand,Mount Maunganui,26 Dec 2020,Test # 2397
+422,,,61,1,,Pakistan,v New Zealand,Christchurch,3 Jan 2021,Test # 2400
+423,DJ Mitchell,5,108,3,,New Zealand,v England,Lord's,2 Jun 2022,Test # 2464
+424,,,190,1,,New Zealand,v England,Nottingham,10 Jun 2022,Test # 2465
+425,,,62*,3,,New Zealand,v England,Nottingham,10 Jun 2022,Test # 2465
+426,,,109,1,,New Zealand,v England,Leeds,23 Jun 2022,Test # 2467
+427,,,56,3,,New Zealand,v England,Leeds,23 Jun 2022,Test # 2467
+428,JM Bairstow,5,136,4,,England,v New Zealand,Nottingham,10 Jun 2022,Test # 2465
+429,,,162,2,,England,v New Zealand,Leeds,23 Jun 2022,Test # 2467
+430,,,71*,4,,England,v New Zealand,Leeds,23 Jun 2022,Test # 2467
+431,,,106,2,,England,v India,Birmingham,1 Jul 2022,Test # 2470
+432,,,114*,4,,England,v India,Birmingham,1 Jul 2022,Test # 2470
+433,Babar Azam,5,196,4,,Pakistan,v Australia,Karachi,12 Mar 2022,Test # 2455
+434,,,67,2,,Pakistan,v Australia,Lahore,21 Mar 2022,Test # 2458
+435,,,55,4,,Pakistan,v Australia,Lahore,21 Mar 2022,Test # 2458
+436,,,119,2,,Pakistan,v Sri Lanka,Galle,16 Jul 2022,Test # 2472
+437,,,55,4,,Pakistan,v Sri Lanka,Galle,16 Jul 2022,Test # 2472
